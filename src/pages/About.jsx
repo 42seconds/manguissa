@@ -132,7 +132,7 @@ export default function About() {
         <div className="max-w-[1180px] mx-auto px-8">
           <div className="text-center max-w-[640px] mx-auto mb-14">
             <div className="text-[13px] uppercase tracking-wider font-semibold text-gold">Votre équipe</div>
-            <h2 className="text-heading-sm mt-2.5 mb-3.5">Vos Guides</h2>
+            <h2 className="text-heading-sm mt-2.5 mb-3.5">Nos Guides</h2>
             <p className="text-lg opacity-65">Des passionnés à votre service, à chaque étape de votre voyage.</p>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-5">

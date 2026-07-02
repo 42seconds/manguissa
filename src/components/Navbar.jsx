@@ -21,7 +21,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-[100] bg-bg/90 backdrop-blur-md border-b border-navy/10">
       <div className="max-w-[1180px] mx-auto px-8 py-4 flex items-center justify-between">
         <NavLink to="/" className="flex items-center gap-2.5" onClick={() => setOpen(false)}>
-          <img src="/images/logo2.png" alt="Manguissa en Afrique" className="h-14 w-auto" />
+          <img src="/images/logo3.png" alt="Manguissa en Afrique" className="h-14 w-auto" />
           <span className="font-bold text-xl tracking-tight">
             Manguissa <span className="text-gold">en Afrique</span>
           </span>
