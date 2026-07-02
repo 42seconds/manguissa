@@ -8,6 +8,7 @@ const items = [
   { label: "Soweto", image: "/images/soweto.jpg" },
   { label: "Pretoria", image: "/images/pretoria.jpg" },
   { label: "Durban & Culture Zouloue", image: "/images/durban-zulu.jpg" },
+  { label: "Sun City", image: "/images/sun-city.jpg" },
 ];
 
 export default function Gallery() {
